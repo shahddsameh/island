@@ -1,4 +1,4 @@
-# Island – Gen Z Travel Booking Website 🌿
+# Island – Travel Booking Website 🌿
 
 Island is a vintage aesthetic travel website built using WordPress, designed for travelers who seek hiking, cycling, and camping adventures. Users can book curated activity packages directly through the website with seamless date, time — all powered by the Amelia booking plugin.
 
